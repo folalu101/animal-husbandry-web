@@ -2,3 +2,17 @@ img {
     height: 400px;
     width: 400px;
 }
+.cut-i {
+    height: 100px;
+    width: 25px;
+}
+.container {
+    background-color: rgba(135, 222, 179, 0.603)
+}
+footer {
+    background-color: rgba(59, 34, 75, 0.11);
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px;
+    margin: 8px;
+}
