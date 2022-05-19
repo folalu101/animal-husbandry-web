@@ -1,6 +1,10 @@
 img {
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 300px;
+    border-radius: 7px;
+    border-width: 2px;
+    border-color: brown;
+    border-style: solid;
 }
 .cut-i {
     height: 100px;
