@@ -23,4 +23,9 @@ footer {
 .nav-item {
     font-weight: 200;
     font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border-style: inset;
+    border-width: 4px;
 }
