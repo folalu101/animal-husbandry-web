@@ -38,3 +38,11 @@ h3 {
 p {
     color: darkorchid;
 }
+.down-fram {
+    display: block;
+    margin: auto;
+    margin-left: 25%;
+}
+.mapouter {
+    margin-left: 25%;
+}
