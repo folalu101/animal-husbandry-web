@@ -5,9 +5,11 @@
  **version 1.0.0.0
 
 
-About the firm
-Contact of the firm
+About the firm.
+Contact of the firm.
 Detailed profile pages for each of the animals.
+Search page for pets.
+Profile of the firm
 
 
 ## License & copyright
